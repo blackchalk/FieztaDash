@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scipts\GameEnd.js">
+    <Files>
+      <File FileName="Assets\Scipts\Red\Tables_1.js" Line="134" Column="1" />
+      <File FileName="Assets\Scipts\Table.js" Line="1" Column="1" />
+      <File FileName="Assets\Scipts\Food.js" Line="1" Column="1" />
+      <File FileName="Assets\Scipts\GameEnd.js" Line="21" Column="19" />
+      <File FileName="Assets\Scipts\timer.js" Line="2" Column="12" />
+      <File FileName="Assets\Scipts\Red\Tables.js" Line="51" Column="17" />
+      <File FileName="Assets\Scipts\Button\Button.js" Line="12" Column="2" />
+      <File FileName="Assets\Scipts\Instruction\One.js" Line="75" Column="28" />
+      <File FileName="Assets\Scipts\Instruction\FoodInstruction.js" Line="1" Column="1" />
+      <File FileName="Assets\Scipts\Exit.js" Line="14" Column="1" />
+      <File FileName="Assets\Scipts\Button\Restart.js" Line="7" Column="24" />
+      <File FileName="Assets\Scipts\Paused.js" Line="40" Column="35" />
+      <File FileName="Assets\splash\splashscreen.cs" Line="12" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
